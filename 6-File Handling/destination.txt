@@ -1,6 +1,5 @@
-Hello World!
-this is a new line.Append operation taking place!Append operation taking place!
-Append operation taking place!
+Hello world
+This is a new line 
 First line 
-Seocnd line 
+Second line 
 Third line
